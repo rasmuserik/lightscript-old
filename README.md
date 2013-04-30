@@ -2,6 +2,7 @@
 % Rasmus Jensen @ lightscript.net
 % 2010
 
+![logo](https://solsort.com/_logo.png)
 Introduction
 ============
 
